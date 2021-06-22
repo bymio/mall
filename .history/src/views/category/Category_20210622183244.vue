@@ -1,0 +1,126 @@
+    <nav-bar class="category-nav">
+<template>
+  <div class="category">
+      <ul>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+      </ul>
+    </nav-bar>
+  </div>
+</template>
+
+<script>
+import NavBar from "components/common/navbar/NavBar";
+
+export default {
+  name: "Category",
+  components: {
+    NavBar,
+  },
+};
+</script>
+
+<style scoped>
+.category-nav {
+  background: var(--color-tint);
+  color: white;
+}
+</style>

@@ -1,0 +1,132 @@
+<template>
+  <div class="category">
+    <nav-bar class="category-nav">
+      <div slot="center">分类</div>
+    </nav-bar>
+
+      <ul>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+        <li>222</li>
+      </ul>
+  </div>
+</template>
+
+<script>
+import BScroll from 'better-scroll'
+import NavBar from "components/common/navbar/NavBar";
+
+export default {
+  name: "Category",
+  created() {
+    new BScroll('.')
+  },
+  components: {
+    NavBar,
+  },
+};
+</script>
+
+<style scoped>
+.category-nav {
+  background: var(--color-tint);
+  color: white;
+}
+</style>
